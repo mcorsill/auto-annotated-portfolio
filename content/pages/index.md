@@ -41,7 +41,7 @@ sections:
     media:
       type: VideoBlock
       title: REEL
-      url: 'https://youtu.be/BD-YliszGkA'
+      url: 'https://vimeo.com/383695827'
       elementId: ''
       autoplay: false
       loop: false
