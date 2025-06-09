@@ -40,8 +40,8 @@ sections:
     actions: []
     media:
       type: VideoBlock
-      title: REEL
-      url: 'https://vimeo.com/383695827'
+      title: Title of the video
+      url: 'https://youtu.be/BD-YliszGkA'
       elementId: ''
       autoplay: false
       loop: false
